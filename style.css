@@ -51,7 +51,7 @@ nav a:hover {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.9)),
-                url("p5.jpg") center/cover no-repeat;
+                url("p5.JPG") center/cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -364,3 +364,4 @@ button:hover {
     from { text-shadow: 0 0 10px #ff4da6; }
     to { text-shadow: 0 0 30px #8a2be2; }
 }
+
